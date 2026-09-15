@@ -1,7 +1,7 @@
 id = "apisartisan"
 name = "ApisArtisan"
-version = "0.0.1"
+version = "0.1.0"
 schema_version = 1
 authors = ["TCeason <taichong357@gmail.com>"]
-description = "A simple and pleasant dark theme for Zed"
+description = "Dark themes for Zed: ApisArtisan and Hiberbee fans, an unofficial adaptation of the JetBrains Hiberbee theme"
 repository = "https://github.com/TCeason/zed-theme"
